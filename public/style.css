@@ -1,6 +1,11 @@
-body {
-  background-color: #e0d8c7;
-}
 body  {
   background-color: #e8ce99;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 25px;
+  font-family: Georgia;
+  text-align: center;
 }
